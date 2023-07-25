@@ -11,6 +11,16 @@ This repository contains the code and data used to evaluate food hygiene ratings
 The data used for this evaluation is sourced from the UK Food Standards Agency, which provides food hygiene ratings for different establishments in the UK. The dataset includes information such as establishment names, locations, and their corresponding food hygiene ratings.
 Please note that the data used here has a cutoff date of September 2021, which means any changes or updates to the ratings beyond that date are not considered in this analysis.
 
+## Modules
+
+pymongo
+
+pprint
+
+pandas
+
+MongoDB 
+
 ## Deliverables
 
 Deliverables for this Challenge are as follows:
